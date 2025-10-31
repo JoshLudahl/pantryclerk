@@ -5,9 +5,5 @@ node_modules/
 .svelte-kit/
 dist/
 
-# Local data
-var/data/
-*.db
-
 # OS
 .DS_Store
