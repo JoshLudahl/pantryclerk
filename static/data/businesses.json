@@ -1,0 +1,43 @@
+[
+  {
+    "name": "Equitable Giving Circle",
+    "phone": "503-287-7553",
+    "address": "15431 NE 20th Ave, Portland, OR 97211",
+    "zip": "97211",
+    "mapUrl": "https://maps.app.goo.gl/QhzHe68rPzLiBrKj7",
+    "offering": "Weekly free market for Black + Brown folks",
+    "availability": "Every Thursday 10am - 2pm",
+    "url": "https://www.equitablegivingcircle.org/ ",
+    "social": [
+      { "platform": "instagram", "url": "https://instagram.com/EquitableGivingCircle" }
+    ],
+    "type": "pantry"
+  },
+  {
+    "name": "Meals on Us PDX & PDX Saint’s Love",
+    "address": "247 SE 82nd Ave, Portland, OR 97215",
+    "zip": "97215",
+    "mapUrl": "https://maps.app.goo.gl/PWjYUjPv3SqFxJgG9",
+    "offering": "Chef curated meals with no charge.",
+    "availability": "Most weekdays, check Instagram for full schedule",
+    "social": [
+			{ "platform": "instagram", "url": "https://instagram.com/MealsOnUs.PDX" },
+			{ "platform": "instagram", "url": "https://instagram.com/PDXSaintsLove" }
+		],
+    "type": "pantry"
+  },
+  {
+    "name": "Green Leaf Clinic",
+    "phone": "+1 (555) 987-6543",
+    "address": "310 NW Glisan St, Portland, OR 97209",
+    "zip": "97209",
+    "mapUrl": "https://maps.app.goo.gl/JScBgnYG3tpcunY26",
+    "offering": "Free meals & shelter",
+    "availability": "3 meals offered a day, check website for schedule.",
+    "url": "https://blanchethouse.org/free-food-meal-services/",
+		"social": [
+			{ "platform": "instagram", "url": "https://instagram.com/BlanchetHouse" }
+		],
+    "type": "clinic"
+  }
+]

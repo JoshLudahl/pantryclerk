@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Starting Nov 1st, offering free",
+    "offering": "(vegan) food bowls",
+    "address": "4727 NE Fremont St, Portland OR",
+    "availability": "@ DirtyLettucePDX",
+    "mapUrl": "https://maps.google.com/?q=4727%20NE%20Fremont%20St%2C%20Portland%20OR",
+    "type": "Dirty Lettuce"
+  },
+  {
+    "name": "2 locations:",
+    "offering": "931 SE 6th, Portland",
+    "address": "060 SW Baseline St, Hillsboro",
+    "availability": "@ TheRecoveryGym",
+    "mapUrl": "https://maps.google.com/?q=060%20SW%20Baseline%20St%2C%20Hillsboro",
+    "type": "Free food pantry"
+  },
+  {
+    "name": "Sparrow Bakery 8195 N Lombard St UNIT",
+    "offering": "101, Portland, OR https://www.thesparrowbaker y.net/portland/",
+    "address": "Fleur De Lis Bakery & Cafe 3930 NE Hancock St,",
+    "availability": "Portland, OR",
+    "url": "https://fleurdelisbakery.com/",
+    "mapUrl": "https://maps.google.com/?q=Fleur%20De%20Lis%20Bakery%20%26%20Cafe%203930%20NE%20Hancock%20St%2C",
+    "type": "Too Good To Go"
+  }
+]
