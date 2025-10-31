@@ -1,0 +1,13 @@
+# Node
+node_modules/
+
+# Build outputs
+.svelte-kit/
+dist/
+
+# Local data
+var/data/
+*.db
+
+# OS
+.DS_Store
