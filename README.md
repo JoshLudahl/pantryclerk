@@ -25,7 +25,6 @@ npm run dev
 
 Open:
 - Home page: http://localhost:5173/
-- Add Business form: http://localhost:5173/add
 
 ## Add Business Form
 The form captures the Business model:
